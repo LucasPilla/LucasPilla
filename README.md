@@ -2,7 +2,7 @@
 
 Linkedin: https://www.linkedin.com/in/lucas-pilla-pimentel-b735711b8/
 \
-Personal Website: https://lucaspilla.github.com
+Personal Website: https://lucaspilla.github.io
 
 <!--
 **LucasPilla/LucasPilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
