@@ -1,20 +1,11 @@
 ### Hi there 👋
 
-Linkedin: https://www.linkedin.com/in/lucas-pilla-pimentel-b735711b8/
-\
-Personal Website: https://lucaspilla.github.io
-
-<!--
-**LucasPilla/LucasPilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/lucas-pilla-pimentel-b735711b8/">
+  <img align="left" alt="Reeha's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/LucasPilla/">
+  <img align="left" alt="Reeha's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://lucaspilla.github.io">
+  <img align="left" alt="Reeha's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/iconify.svg" />
+</a>
