@@ -9,3 +9,6 @@
 <a href="https://lucaspilla.github.io">
   <img align="left" alt="Reeha's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/iconify.svg" />
 </a>
+<br><br>
+
+![LucasPilla's github stats](https://github-readme-stats.vercel.app/api?username=LucasPilla&show_icons=true&theme=blue-green)
